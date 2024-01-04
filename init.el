@@ -68,3 +68,5 @@
 (tab-bar-mode 1)
 
 
+;; adding transparency
+(add-to-list 'default-frame-alist '(alpha 95 90))
